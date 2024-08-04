@@ -1,0 +1,21 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.alert {
+    margin-top: 20px;
+}
